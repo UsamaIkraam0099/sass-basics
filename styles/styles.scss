@@ -1,9 +1,0 @@
-@import "./variables";
-@import "./header";
-
-.contact {
-  @include flexCenter(row, rgb(209, 94, 94));
-
-  //   Inheritance and Extending Styles
-  //   @extend header;
-}
